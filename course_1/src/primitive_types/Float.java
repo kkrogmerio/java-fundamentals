@@ -1,13 +1,16 @@
-package p1;
+package primitive_types;
 
 /**
  * @author cvoinea
+ *
+ *
+ *
  */
-public class Ex1 {
+public class Float {
 
     public static void main(String[] args) {
-        
+
+
+
     }
-
-
 }
