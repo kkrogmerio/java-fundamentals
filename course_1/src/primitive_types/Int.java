@@ -11,7 +11,7 @@ public class Int {
 
     public static void main(String[] args) {
 
-        int i1 = 68_709_809;
+        int i1 = 68_709_809; // underscore chars in numeric literals available since Java 7
         System.out.println("i1 = " + i1);
 
         System.out.println("min value for int: " + Integer.MIN_VALUE);
