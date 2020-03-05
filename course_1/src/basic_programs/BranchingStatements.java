@@ -5,7 +5,7 @@ package basic_programs;
  *
  * break, continue, return
  *
- * TO DO: implement a program to read int values from keyboard until a pre-set value in encountered
+ * TO DO: implement a program to read int values from keyboard until a pre-set value is encountered
  *
  */
 public class BranchingStatements {

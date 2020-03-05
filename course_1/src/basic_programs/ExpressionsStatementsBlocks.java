@@ -6,7 +6,7 @@ package basic_programs;
  * expression - a construct made up of variables, operators, and method invocations
  * - constructed according to the syntax of the language
  * - evaluates to a single value
- * use parentheses when writing compund expressions
+ * use parentheses when writing compound expressions
  * <p>
  * statement - roughly equiv. to a sentence in natural language
  * - forms a complete unit of execution
